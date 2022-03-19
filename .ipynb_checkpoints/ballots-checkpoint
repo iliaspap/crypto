@@ -1,0 +1,900 @@
+49
+array([['Mary Trausch', '11'],
+       ['Zachary Matthews', '12'],
+       ['Joseph Brandi', '10'],
+       ['Jerry Walker', '9']], dtype='<U21')
+array([['Mary Trausch', '13'],
+       ['Zachary Matthews', '15'],
+       ['Joseph Brandi', '14'],
+       ['Jerry Walker', '16']], dtype='<U21')
+42
+array([['Mary Trausch', '20'],
+       ['Zachary Matthews', '18'],
+       ['Joseph Brandi', '19'],
+       ['Jerry Walker', '17']], dtype='<U21')
+array([['Mary Trausch', '23'],
+       ['Zachary Matthews', '24'],
+       ['Joseph Brandi', '21'],
+       ['Jerry Walker', '22']], dtype='<U21')
+27
+array([['Mary Trausch', '28'],
+       ['Zachary Matthews', '26'],
+       ['Joseph Brandi', '27'],
+       ['Jerry Walker', '25']], dtype='<U21')
+array([['Mary Trausch', '31'],
+       ['Zachary Matthews', '29'],
+       ['Joseph Brandi', '30'],
+       ['Jerry Walker', '32']], dtype='<U21')
+56
+array([['Mary Trausch', '34'],
+       ['Zachary Matthews', '33'],
+       ['Joseph Brandi', '36'],
+       ['Jerry Walker', '35']], dtype='<U21')
+array([['Mary Trausch', '37'],
+       ['Zachary Matthews', '39'],
+       ['Joseph Brandi', '38'],
+       ['Jerry Walker', '40']], dtype='<U21')
+78
+array([['Mary Trausch', '43'],
+       ['Zachary Matthews', '41'],
+       ['Joseph Brandi', '42'],
+       ['Jerry Walker', '44']], dtype='<U21')
+array([['Mary Trausch', '45'],
+       ['Zachary Matthews', '46'],
+       ['Joseph Brandi', '48'],
+       ['Jerry Walker', '47']], dtype='<U21')
+90
+array([['Mary Trausch', '52'],
+       ['Zachary Matthews', '49'],
+       ['Joseph Brandi', '51'],
+       ['Jerry Walker', '50']], dtype='<U21')
+array([['Mary Trausch', '56'],
+       ['Zachary Matthews', '54'],
+       ['Joseph Brandi', '55'],
+       ['Jerry Walker', '53']], dtype='<U21')
+33
+array([['Mary Trausch', '59'],
+       ['Zachary Matthews', '60'],
+       ['Joseph Brandi', '58'],
+       ['Jerry Walker', '57']], dtype='<U21')
+array([['Mary Trausch', '63'],
+       ['Zachary Matthews', '64'],
+       ['Joseph Brandi', '62'],
+       ['Jerry Walker', '61']], dtype='<U21')
+22
+array([['Mary Trausch', '67'],
+       ['Zachary Matthews', '66'],
+       ['Joseph Brandi', '65'],
+       ['Jerry Walker', '68']], dtype='<U21')
+array([['Mary Trausch', '71'],
+       ['Zachary Matthews', '69'],
+       ['Joseph Brandi', '70'],
+       ['Jerry Walker', '72']], dtype='<U21')
+85
+array([['Mary Trausch', '76'],
+       ['Zachary Matthews', '75'],
+       ['Joseph Brandi', '74'],
+       ['Jerry Walker', '73']], dtype='<U21')
+array([['Mary Trausch', '78'],
+       ['Zachary Matthews', '80'],
+       ['Joseph Brandi', '79'],
+       ['Jerry Walker', '77']], dtype='<U21')
+40
+array([['Mary Trausch', '83'],
+       ['Zachary Matthews', '82'],
+       ['Joseph Brandi', '81'],
+       ['Jerry Walker', '84']], dtype='<U21')
+array([['Mary Trausch', '88'],
+       ['Zachary Matthews', '87'],
+       ['Joseph Brandi', '86'],
+       ['Jerry Walker', '85']], dtype='<U21')
+64
+array([['Mary Trausch', '89'],
+       ['Zachary Matthews', '92'],
+       ['Joseph Brandi', '90'],
+       ['Jerry Walker', '91']], dtype='<U21')
+array([['Mary Trausch', '96'],
+       ['Zachary Matthews', '95'],
+       ['Joseph Brandi', '93'],
+       ['Jerry Walker', '94']], dtype='<U21')
+74
+array([['Mary Trausch', '99'],
+       ['Zachary Matthews', '98'],
+       ['Joseph Brandi', '97'],
+       ['Jerry Walker', '100']], dtype='<U21')
+array([['Mary Trausch', '102'],
+       ['Zachary Matthews', '103'],
+       ['Joseph Brandi', '101'],
+       ['Jerry Walker', '104']], dtype='<U21')
+54
+array([['Mary Trausch', '107'],
+       ['Zachary Matthews', '108'],
+       ['Joseph Brandi', '106'],
+       ['Jerry Walker', '105']], dtype='<U21')
+array([['Mary Trausch', '111'],
+       ['Zachary Matthews', '112'],
+       ['Joseph Brandi', '109'],
+       ['Jerry Walker', '110']], dtype='<U21')
+11
+array([['Mary Trausch', '114'],
+       ['Zachary Matthews', '116'],
+       ['Joseph Brandi', '113'],
+       ['Jerry Walker', '115']], dtype='<U21')
+array([['Mary Trausch', '117'],
+       ['Zachary Matthews', '118'],
+       ['Joseph Brandi', '119'],
+       ['Jerry Walker', '120']], dtype='<U21')
+4
+array([['Mary Trausch', '121'],
+       ['Zachary Matthews', '122'],
+       ['Joseph Brandi', '123'],
+       ['Jerry Walker', '124']], dtype='<U21')
+array([['Mary Trausch', '125'],
+       ['Zachary Matthews', '127'],
+       ['Joseph Brandi', '126'],
+       ['Jerry Walker', '128']], dtype='<U21')
+39
+array([['Mary Trausch', '129'],
+       ['Zachary Matthews', '132'],
+       ['Joseph Brandi', '131'],
+       ['Jerry Walker', '130']], dtype='<U21')
+array([['Mary Trausch', '134'],
+       ['Zachary Matthews', '135'],
+       ['Joseph Brandi', '136'],
+       ['Jerry Walker', '133']], dtype='<U21')
+36
+array([['Mary Trausch', '140'],
+       ['Zachary Matthews', '138'],
+       ['Joseph Brandi', '139'],
+       ['Jerry Walker', '137']], dtype='<U21')
+array([['Mary Trausch', '142'],
+       ['Zachary Matthews', '141'],
+       ['Joseph Brandi', '143'],
+       ['Jerry Walker', '144']], dtype='<U21')
+20
+array([['Mary Trausch', '148'],
+       ['Zachary Matthews', '146'],
+       ['Joseph Brandi', '147'],
+       ['Jerry Walker', '145']], dtype='<U21')
+array([['Mary Trausch', '151'],
+       ['Zachary Matthews', '150'],
+       ['Joseph Brandi', '149'],
+       ['Jerry Walker', '152']], dtype='<U21')
+81
+array([['Mary Trausch', '154'],
+       ['Zachary Matthews', '155'],
+       ['Joseph Brandi', '153'],
+       ['Jerry Walker', '156']], dtype='<U21')
+array([['Mary Trausch', '157'],
+       ['Zachary Matthews', '158'],
+       ['Joseph Brandi', '160'],
+       ['Jerry Walker', '159']], dtype='<U21')
+86
+array([['Mary Trausch', '164'],
+       ['Zachary Matthews', '162'],
+       ['Joseph Brandi', '163'],
+       ['Jerry Walker', '161']], dtype='<U21')
+array([['Mary Trausch', '165'],
+       ['Zachary Matthews', '166'],
+       ['Joseph Brandi', '168'],
+       ['Jerry Walker', '167']], dtype='<U21')
+68
+array([['Mary Trausch', '172'],
+       ['Zachary Matthews', '171'],
+       ['Joseph Brandi', '169'],
+       ['Jerry Walker', '170']], dtype='<U21')
+array([['Mary Trausch', '173'],
+       ['Zachary Matthews', '176'],
+       ['Joseph Brandi', '175'],
+       ['Jerry Walker', '174']], dtype='<U21')
+47
+array([['Mary Trausch', '179'],
+       ['Zachary Matthews', '177'],
+       ['Joseph Brandi', '180'],
+       ['Jerry Walker', '178']], dtype='<U21')
+array([['Mary Trausch', '183'],
+       ['Zachary Matthews', '182'],
+       ['Joseph Brandi', '181'],
+       ['Jerry Walker', '184']], dtype='<U21')
+98
+array([['Mary Trausch', '188'],
+       ['Zachary Matthews', '187'],
+       ['Joseph Brandi', '185'],
+       ['Jerry Walker', '186']], dtype='<U21')
+array([['Mary Trausch', '192'],
+       ['Zachary Matthews', '191'],
+       ['Joseph Brandi', '190'],
+       ['Jerry Walker', '189']], dtype='<U21')
+70
+array([['Mary Trausch', '196'],
+       ['Zachary Matthews', '194'],
+       ['Joseph Brandi', '193'],
+       ['Jerry Walker', '195']], dtype='<U21')
+array([['Mary Trausch', '199'],
+       ['Zachary Matthews', '200'],
+       ['Joseph Brandi', '198'],
+       ['Jerry Walker', '197']], dtype='<U21')
+60
+array([['Mary Trausch', '203'],
+       ['Zachary Matthews', '202'],
+       ['Joseph Brandi', '204'],
+       ['Jerry Walker', '201']], dtype='<U21')
+array([['Mary Trausch', '207'],
+       ['Zachary Matthews', '208'],
+       ['Joseph Brandi', '205'],
+       ['Jerry Walker', '206']], dtype='<U21')
+34
+array([['Mary Trausch', '210'],
+       ['Zachary Matthews', '211'],
+       ['Joseph Brandi', '212'],
+       ['Jerry Walker', '209']], dtype='<U21')
+array([['Mary Trausch', '216'],
+       ['Zachary Matthews', '214'],
+       ['Joseph Brandi', '213'],
+       ['Jerry Walker', '215']], dtype='<U21')
+95
+array([['Mary Trausch', '218'],
+       ['Zachary Matthews', '220'],
+       ['Joseph Brandi', '219'],
+       ['Jerry Walker', '217']], dtype='<U21')
+array([['Mary Trausch', '224'],
+       ['Zachary Matthews', '221'],
+       ['Joseph Brandi', '222'],
+       ['Jerry Walker', '223']], dtype='<U21')
+19
+array([['Mary Trausch', '228'],
+       ['Zachary Matthews', '226'],
+       ['Joseph Brandi', '225'],
+       ['Jerry Walker', '227']], dtype='<U21')
+array([['Mary Trausch', '231'],
+       ['Zachary Matthews', '229'],
+       ['Joseph Brandi', '232'],
+       ['Jerry Walker', '230']], dtype='<U21')
+10
+array([['Mary Trausch', '234'],
+       ['Zachary Matthews', '235'],
+       ['Joseph Brandi', '236'],
+       ['Jerry Walker', '233']], dtype='<U21')
+array([['Mary Trausch', '238'],
+       ['Zachary Matthews', '239'],
+       ['Joseph Brandi', '237'],
+       ['Jerry Walker', '240']], dtype='<U21')
+93
+array([['Mary Trausch', '241'],
+       ['Zachary Matthews', '244'],
+       ['Joseph Brandi', '243'],
+       ['Jerry Walker', '242']], dtype='<U21')
+array([['Mary Trausch', '245'],
+       ['Zachary Matthews', '247'],
+       ['Joseph Brandi', '246'],
+       ['Jerry Walker', '248']], dtype='<U21')
+97
+array([['Mary Trausch', '250'],
+       ['Zachary Matthews', '249'],
+       ['Joseph Brandi', '252'],
+       ['Jerry Walker', '251']], dtype='<U21')
+array([['Mary Trausch', '255'],
+       ['Zachary Matthews', '254'],
+       ['Joseph Brandi', '253'],
+       ['Jerry Walker', '256']], dtype='<U21')
+77
+array([['Mary Trausch', '259'],
+       ['Zachary Matthews', '257'],
+       ['Joseph Brandi', '258'],
+       ['Jerry Walker', '260']], dtype='<U21')
+array([['Mary Trausch', '263'],
+       ['Zachary Matthews', '264'],
+       ['Joseph Brandi', '262'],
+       ['Jerry Walker', '261']], dtype='<U21')
+57
+array([['Mary Trausch', '266'],
+       ['Zachary Matthews', '268'],
+       ['Joseph Brandi', '265'],
+       ['Jerry Walker', '267']], dtype='<U21')
+array([['Mary Trausch', '272'],
+       ['Zachary Matthews', '270'],
+       ['Joseph Brandi', '269'],
+       ['Jerry Walker', '271']], dtype='<U21')
+17
+array([['Mary Trausch', '275'],
+       ['Zachary Matthews', '274'],
+       ['Joseph Brandi', '273'],
+       ['Jerry Walker', '276']], dtype='<U21')
+array([['Mary Trausch', '277'],
+       ['Zachary Matthews', '280'],
+       ['Joseph Brandi', '278'],
+       ['Jerry Walker', '279']], dtype='<U21')
+63
+array([['Mary Trausch', '282'],
+       ['Zachary Matthews', '283'],
+       ['Joseph Brandi', '281'],
+       ['Jerry Walker', '284']], dtype='<U21')
+array([['Mary Trausch', '288'],
+       ['Zachary Matthews', '285'],
+       ['Joseph Brandi', '286'],
+       ['Jerry Walker', '287']], dtype='<U21')
+13
+array([['Mary Trausch', '289'],
+       ['Zachary Matthews', '290'],
+       ['Joseph Brandi', '292'],
+       ['Jerry Walker', '291']], dtype='<U21')
+array([['Mary Trausch', '294'],
+       ['Zachary Matthews', '293'],
+       ['Joseph Brandi', '296'],
+       ['Jerry Walker', '295']], dtype='<U21')
+79
+array([['Mary Trausch', '300'],
+       ['Zachary Matthews', '299'],
+       ['Joseph Brandi', '297'],
+       ['Jerry Walker', '298']], dtype='<U21')
+array([['Mary Trausch', '301'],
+       ['Zachary Matthews', '302'],
+       ['Joseph Brandi', '303'],
+       ['Jerry Walker', '304']], dtype='<U21')
+28
+array([['Mary Trausch', '308'],
+       ['Zachary Matthews', '307'],
+       ['Joseph Brandi', '306'],
+       ['Jerry Walker', '305']], dtype='<U21')
+array([['Mary Trausch', '311'],
+       ['Zachary Matthews', '310'],
+       ['Joseph Brandi', '309'],
+       ['Jerry Walker', '312']], dtype='<U21')
+35
+array([['Mary Trausch', '313'],
+       ['Zachary Matthews', '314'],
+       ['Joseph Brandi', '315'],
+       ['Jerry Walker', '316']], dtype='<U21')
+array([['Mary Trausch', '318'],
+       ['Zachary Matthews', '320'],
+       ['Joseph Brandi', '319'],
+       ['Jerry Walker', '317']], dtype='<U21')
+21
+array([['Mary Trausch', '324'],
+       ['Zachary Matthews', '321'],
+       ['Joseph Brandi', '323'],
+       ['Jerry Walker', '322']], dtype='<U21')
+array([['Mary Trausch', '326'],
+       ['Zachary Matthews', '327'],
+       ['Joseph Brandi', '328'],
+       ['Jerry Walker', '325']], dtype='<U21')
+12
+array([['Mary Trausch', '329'],
+       ['Zachary Matthews', '332'],
+       ['Joseph Brandi', '330'],
+       ['Jerry Walker', '331']], dtype='<U21')
+array([['Mary Trausch', '335'],
+       ['Zachary Matthews', '333'],
+       ['Joseph Brandi', '334'],
+       ['Jerry Walker', '336']], dtype='<U21')
+92
+array([['Mary Trausch', '337'],
+       ['Zachary Matthews', '339'],
+       ['Joseph Brandi', '338'],
+       ['Jerry Walker', '340']], dtype='<U21')
+array([['Mary Trausch', '344'],
+       ['Zachary Matthews', '343'],
+       ['Joseph Brandi', '342'],
+       ['Jerry Walker', '341']], dtype='<U21')
+44
+array([['Mary Trausch', '345'],
+       ['Zachary Matthews', '346'],
+       ['Joseph Brandi', '348'],
+       ['Jerry Walker', '347']], dtype='<U21')
+array([['Mary Trausch', '352'],
+       ['Zachary Matthews', '351'],
+       ['Joseph Brandi', '349'],
+       ['Jerry Walker', '350']], dtype='<U21')
+59
+array([['Mary Trausch', '355'],
+       ['Zachary Matthews', '356'],
+       ['Joseph Brandi', '354'],
+       ['Jerry Walker', '353']], dtype='<U21')
+array([['Mary Trausch', '360'],
+       ['Zachary Matthews', '358'],
+       ['Joseph Brandi', '359'],
+       ['Jerry Walker', '357']], dtype='<U21')
+82
+array([['Mary Trausch', '362'],
+       ['Zachary Matthews', '361'],
+       ['Joseph Brandi', '363'],
+       ['Jerry Walker', '364']], dtype='<U21')
+array([['Mary Trausch', '368'],
+       ['Zachary Matthews', '365'],
+       ['Joseph Brandi', '367'],
+       ['Jerry Walker', '366']], dtype='<U21')
+23
+array([['Mary Trausch', '371'],
+       ['Zachary Matthews', '372'],
+       ['Joseph Brandi', '369'],
+       ['Jerry Walker', '370']], dtype='<U21')
+array([['Mary Trausch', '375'],
+       ['Zachary Matthews', '376'],
+       ['Joseph Brandi', '374'],
+       ['Jerry Walker', '373']], dtype='<U21')
+3
+array([['Mary Trausch', '377'],
+       ['Zachary Matthews', '379'],
+       ['Joseph Brandi', '378'],
+       ['Jerry Walker', '380']], dtype='<U21')
+array([['Mary Trausch', '383'],
+       ['Zachary Matthews', '384'],
+       ['Joseph Brandi', '381'],
+       ['Jerry Walker', '382']], dtype='<U21')
+8
+array([['Mary Trausch', '385'],
+       ['Zachary Matthews', '387'],
+       ['Joseph Brandi', '388'],
+       ['Jerry Walker', '386']], dtype='<U21')
+array([['Mary Trausch', '392'],
+       ['Zachary Matthews', '389'],
+       ['Joseph Brandi', '391'],
+       ['Jerry Walker', '390']], dtype='<U21')
+1
+array([['Mary Trausch', '394'],
+       ['Zachary Matthews', '393'],
+       ['Joseph Brandi', '395'],
+       ['Jerry Walker', '396']], dtype='<U21')
+array([['Mary Trausch', '400'],
+       ['Zachary Matthews', '398'],
+       ['Joseph Brandi', '397'],
+       ['Jerry Walker', '399']], dtype='<U21')
+75
+array([['Mary Trausch', '403'],
+       ['Zachary Matthews', '401'],
+       ['Joseph Brandi', '402'],
+       ['Jerry Walker', '404']], dtype='<U21')
+array([['Mary Trausch', '406'],
+       ['Zachary Matthews', '407'],
+       ['Joseph Brandi', '405'],
+       ['Jerry Walker', '408']], dtype='<U21')
+99
+array([['Mary Trausch', '410'],
+       ['Zachary Matthews', '411'],
+       ['Joseph Brandi', '412'],
+       ['Jerry Walker', '409']], dtype='<U21')
+array([['Mary Trausch', '414'],
+       ['Zachary Matthews', '416'],
+       ['Joseph Brandi', '415'],
+       ['Jerry Walker', '413']], dtype='<U21')
+89
+array([['Mary Trausch', '419'],
+       ['Zachary Matthews', '417'],
+       ['Joseph Brandi', '420'],
+       ['Jerry Walker', '418']], dtype='<U21')
+array([['Mary Trausch', '423'],
+       ['Zachary Matthews', '422'],
+       ['Joseph Brandi', '421'],
+       ['Jerry Walker', '424']], dtype='<U21')
+51
+array([['Mary Trausch', '427'],
+       ['Zachary Matthews', '425'],
+       ['Joseph Brandi', '428'],
+       ['Jerry Walker', '426']], dtype='<U21')
+array([['Mary Trausch', '432'],
+       ['Zachary Matthews', '429'],
+       ['Joseph Brandi', '430'],
+       ['Jerry Walker', '431']], dtype='<U21')
+6
+array([['Mary Trausch', '434'],
+       ['Zachary Matthews', '435'],
+       ['Joseph Brandi', '433'],
+       ['Jerry Walker', '436']], dtype='<U21')
+array([['Mary Trausch', '437'],
+       ['Zachary Matthews', '439'],
+       ['Joseph Brandi', '440'],
+       ['Jerry Walker', '438']], dtype='<U21')
+73
+array([['Mary Trausch', '443'],
+       ['Zachary Matthews', '444'],
+       ['Joseph Brandi', '441'],
+       ['Jerry Walker', '442']], dtype='<U21')
+array([['Mary Trausch', '445'],
+       ['Zachary Matthews', '446'],
+       ['Joseph Brandi', '447'],
+       ['Jerry Walker', '448']], dtype='<U21')
+87
+array([['Mary Trausch', '452'],
+       ['Zachary Matthews', '450'],
+       ['Joseph Brandi', '451'],
+       ['Jerry Walker', '449']], dtype='<U21')
+array([['Mary Trausch', '454'],
+       ['Zachary Matthews', '455'],
+       ['Joseph Brandi', '453'],
+       ['Jerry Walker', '456']], dtype='<U21')
+5
+array([['Mary Trausch', '458'],
+       ['Zachary Matthews', '459'],
+       ['Joseph Brandi', '460'],
+       ['Jerry Walker', '457']], dtype='<U21')
+array([['Mary Trausch', '463'],
+       ['Zachary Matthews', '461'],
+       ['Joseph Brandi', '462'],
+       ['Jerry Walker', '464']], dtype='<U21')
+67
+array([['Mary Trausch', '467'],
+       ['Zachary Matthews', '466'],
+       ['Joseph Brandi', '465'],
+       ['Jerry Walker', '468']], dtype='<U21')
+array([['Mary Trausch', '472'],
+       ['Zachary Matthews', '469'],
+       ['Joseph Brandi', '470'],
+       ['Jerry Walker', '471']], dtype='<U21')
+88
+array([['Mary Trausch', '473'],
+       ['Zachary Matthews', '476'],
+       ['Joseph Brandi', '474'],
+       ['Jerry Walker', '475']], dtype='<U21')
+array([['Mary Trausch', '477'],
+       ['Zachary Matthews', '479'],
+       ['Joseph Brandi', '478'],
+       ['Jerry Walker', '480']], dtype='<U21')
+46
+array([['Mary Trausch', '482'],
+       ['Zachary Matthews', '481'],
+       ['Joseph Brandi', '484'],
+       ['Jerry Walker', '483']], dtype='<U21')
+array([['Mary Trausch', '487'],
+       ['Zachary Matthews', '486'],
+       ['Joseph Brandi', '485'],
+       ['Jerry Walker', '488']], dtype='<U21')
+30
+array([['Mary Trausch', '490'],
+       ['Zachary Matthews', '489'],
+       ['Joseph Brandi', '491'],
+       ['Jerry Walker', '492']], dtype='<U21')
+array([['Mary Trausch', '496'],
+       ['Zachary Matthews', '495'],
+       ['Joseph Brandi', '493'],
+       ['Jerry Walker', '494']], dtype='<U21')
+25
+array([['Mary Trausch', '497'],
+       ['Zachary Matthews', '498'],
+       ['Joseph Brandi', '499'],
+       ['Jerry Walker', '500']], dtype='<U21')
+array([['Mary Trausch', '502'],
+       ['Zachary Matthews', '504'],
+       ['Joseph Brandi', '501'],
+       ['Jerry Walker', '503']], dtype='<U21')
+91
+array([['Mary Trausch', '505'],
+       ['Zachary Matthews', '506'],
+       ['Joseph Brandi', '508'],
+       ['Jerry Walker', '507']], dtype='<U21')
+array([['Mary Trausch', '511'],
+       ['Zachary Matthews', '509'],
+       ['Joseph Brandi', '512'],
+       ['Jerry Walker', '510']], dtype='<U21')
+43
+array([['Mary Trausch', '515'],
+       ['Zachary Matthews', '516'],
+       ['Joseph Brandi', '513'],
+       ['Jerry Walker', '514']], dtype='<U21')
+array([['Mary Trausch', '517'],
+       ['Zachary Matthews', '518'],
+       ['Joseph Brandi', '519'],
+       ['Jerry Walker', '520']], dtype='<U21')
+94
+array([['Mary Trausch', '523'],
+       ['Zachary Matthews', '521'],
+       ['Joseph Brandi', '524'],
+       ['Jerry Walker', '522']], dtype='<U21')
+array([['Mary Trausch', '527'],
+       ['Zachary Matthews', '528'],
+       ['Joseph Brandi', '525'],
+       ['Jerry Walker', '526']], dtype='<U21')
+65
+array([['Mary Trausch', '531'],
+       ['Zachary Matthews', '530'],
+       ['Joseph Brandi', '529'],
+       ['Jerry Walker', '532']], dtype='<U21')
+array([['Mary Trausch', '535'],
+       ['Zachary Matthews', '533'],
+       ['Joseph Brandi', '536'],
+       ['Jerry Walker', '534']], dtype='<U21')
+100
+array([['Mary Trausch', '538'],
+       ['Zachary Matthews', '537'],
+       ['Joseph Brandi', '540'],
+       ['Jerry Walker', '539']], dtype='<U21')
+array([['Mary Trausch', '543'],
+       ['Zachary Matthews', '542'],
+       ['Joseph Brandi', '544'],
+       ['Jerry Walker', '541']], dtype='<U21')
+31
+array([['Mary Trausch', '548'],
+       ['Zachary Matthews', '545'],
+       ['Joseph Brandi', '546'],
+       ['Jerry Walker', '547']], dtype='<U21')
+array([['Mary Trausch', '549'],
+       ['Zachary Matthews', '552'],
+       ['Joseph Brandi', '550'],
+       ['Jerry Walker', '551']], dtype='<U21')
+80
+array([['Mary Trausch', '553'],
+       ['Zachary Matthews', '555'],
+       ['Joseph Brandi', '556'],
+       ['Jerry Walker', '554']], dtype='<U21')
+array([['Mary Trausch', '557'],
+       ['Zachary Matthews', '559'],
+       ['Joseph Brandi', '560'],
+       ['Jerry Walker', '558']], dtype='<U21')
+83
+array([['Mary Trausch', '564'],
+       ['Zachary Matthews', '562'],
+       ['Joseph Brandi', '563'],
+       ['Jerry Walker', '561']], dtype='<U21')
+array([['Mary Trausch', '568'],
+       ['Zachary Matthews', '567'],
+       ['Joseph Brandi', '566'],
+       ['Jerry Walker', '565']], dtype='<U21')
+53
+array([['Mary Trausch', '570'],
+       ['Zachary Matthews', '572'],
+       ['Joseph Brandi', '569'],
+       ['Jerry Walker', '571']], dtype='<U21')
+array([['Mary Trausch', '575'],
+       ['Zachary Matthews', '574'],
+       ['Joseph Brandi', '573'],
+       ['Jerry Walker', '576']], dtype='<U21')
+96
+array([['Mary Trausch', '579'],
+       ['Zachary Matthews', '578'],
+       ['Joseph Brandi', '577'],
+       ['Jerry Walker', '580']], dtype='<U21')
+array([['Mary Trausch', '581'],
+       ['Zachary Matthews', '582'],
+       ['Joseph Brandi', '583'],
+       ['Jerry Walker', '584']], dtype='<U21')
+37
+array([['Mary Trausch', '588'],
+       ['Zachary Matthews', '586'],
+       ['Joseph Brandi', '587'],
+       ['Jerry Walker', '585']], dtype='<U21')
+array([['Mary Trausch', '592'],
+       ['Zachary Matthews', '590'],
+       ['Joseph Brandi', '591'],
+       ['Jerry Walker', '589']], dtype='<U21')
+45
+array([['Mary Trausch', '596'],
+       ['Zachary Matthews', '594'],
+       ['Joseph Brandi', '593'],
+       ['Jerry Walker', '595']], dtype='<U21')
+array([['Mary Trausch', '598'],
+       ['Zachary Matthews', '600'],
+       ['Joseph Brandi', '599'],
+       ['Jerry Walker', '597']], dtype='<U21')
+29
+array([['Mary Trausch', '601'],
+       ['Zachary Matthews', '602'],
+       ['Joseph Brandi', '603'],
+       ['Jerry Walker', '604']], dtype='<U21')
+array([['Mary Trausch', '607'],
+       ['Zachary Matthews', '605'],
+       ['Joseph Brandi', '608'],
+       ['Jerry Walker', '606']], dtype='<U21')
+7
+array([['Mary Trausch', '609'],
+       ['Zachary Matthews', '611'],
+       ['Joseph Brandi', '612'],
+       ['Jerry Walker', '610']], dtype='<U21')
+array([['Mary Trausch', '615'],
+       ['Zachary Matthews', '614'],
+       ['Joseph Brandi', '616'],
+       ['Jerry Walker', '613']], dtype='<U21')
+76
+array([['Mary Trausch', '619'],
+       ['Zachary Matthews', '618'],
+       ['Joseph Brandi', '620'],
+       ['Jerry Walker', '617']], dtype='<U21')
+array([['Mary Trausch', '623'],
+       ['Zachary Matthews', '622'],
+       ['Joseph Brandi', '624'],
+       ['Jerry Walker', '621']], dtype='<U21')
+41
+array([['Mary Trausch', '626'],
+       ['Zachary Matthews', '627'],
+       ['Joseph Brandi', '625'],
+       ['Jerry Walker', '628']], dtype='<U21')
+array([['Mary Trausch', '630'],
+       ['Zachary Matthews', '632'],
+       ['Joseph Brandi', '631'],
+       ['Jerry Walker', '629']], dtype='<U21')
+84
+array([['Mary Trausch', '635'],
+       ['Zachary Matthews', '633'],
+       ['Joseph Brandi', '634'],
+       ['Jerry Walker', '636']], dtype='<U21')
+array([['Mary Trausch', '638'],
+       ['Zachary Matthews', '640'],
+       ['Joseph Brandi', '639'],
+       ['Jerry Walker', '637']], dtype='<U21')
+2
+array([['Mary Trausch', '641'],
+       ['Zachary Matthews', '644'],
+       ['Joseph Brandi', '642'],
+       ['Jerry Walker', '643']], dtype='<U21')
+array([['Mary Trausch', '646'],
+       ['Zachary Matthews', '647'],
+       ['Joseph Brandi', '645'],
+       ['Jerry Walker', '648']], dtype='<U21')
+58
+array([['Mary Trausch', '650'],
+       ['Zachary Matthews', '649'],
+       ['Joseph Brandi', '652'],
+       ['Jerry Walker', '651']], dtype='<U21')
+array([['Mary Trausch', '655'],
+       ['Zachary Matthews', '656'],
+       ['Joseph Brandi', '654'],
+       ['Jerry Walker', '653']], dtype='<U21')
+9
+array([['Mary Trausch', '660'],
+       ['Zachary Matthews', '657'],
+       ['Joseph Brandi', '658'],
+       ['Jerry Walker', '659']], dtype='<U21')
+array([['Mary Trausch', '661'],
+       ['Zachary Matthews', '662'],
+       ['Joseph Brandi', '664'],
+       ['Jerry Walker', '663']], dtype='<U21')
+48
+array([['Mary Trausch', '668'],
+       ['Zachary Matthews', '667'],
+       ['Joseph Brandi', '665'],
+       ['Jerry Walker', '666']], dtype='<U21')
+array([['Mary Trausch', '670'],
+       ['Zachary Matthews', '672'],
+       ['Joseph Brandi', '669'],
+       ['Jerry Walker', '671']], dtype='<U21')
+52
+array([['Mary Trausch', '676'],
+       ['Zachary Matthews', '673'],
+       ['Joseph Brandi', '675'],
+       ['Jerry Walker', '674']], dtype='<U21')
+array([['Mary Trausch', '680'],
+       ['Zachary Matthews', '679'],
+       ['Joseph Brandi', '677'],
+       ['Jerry Walker', '678']], dtype='<U21')
+71
+array([['Mary Trausch', '683'],
+       ['Zachary Matthews', '684'],
+       ['Joseph Brandi', '681'],
+       ['Jerry Walker', '682']], dtype='<U21')
+array([['Mary Trausch', '688'],
+       ['Zachary Matthews', '687'],
+       ['Joseph Brandi', '685'],
+       ['Jerry Walker', '686']], dtype='<U21')
+38
+array([['Mary Trausch', '692'],
+       ['Zachary Matthews', '691'],
+       ['Joseph Brandi', '690'],
+       ['Jerry Walker', '689']], dtype='<U21')
+array([['Mary Trausch', '693'],
+       ['Zachary Matthews', '696'],
+       ['Joseph Brandi', '695'],
+       ['Jerry Walker', '694']], dtype='<U21')
+14
+array([['Mary Trausch', '700'],
+       ['Zachary Matthews', '698'],
+       ['Joseph Brandi', '699'],
+       ['Jerry Walker', '697']], dtype='<U21')
+array([['Mary Trausch', '703'],
+       ['Zachary Matthews', '704'],
+       ['Joseph Brandi', '702'],
+       ['Jerry Walker', '701']], dtype='<U21')
+50
+array([['Mary Trausch', '705'],
+       ['Zachary Matthews', '707'],
+       ['Joseph Brandi', '706'],
+       ['Jerry Walker', '708']], dtype='<U21')
+array([['Mary Trausch', '712'],
+       ['Zachary Matthews', '710'],
+       ['Joseph Brandi', '709'],
+       ['Jerry Walker', '711']], dtype='<U21')
+26
+array([['Mary Trausch', '714'],
+       ['Zachary Matthews', '716'],
+       ['Joseph Brandi', '713'],
+       ['Jerry Walker', '715']], dtype='<U21')
+array([['Mary Trausch', '717'],
+       ['Zachary Matthews', '719'],
+       ['Joseph Brandi', '720'],
+       ['Jerry Walker', '718']], dtype='<U21')
+62
+array([['Mary Trausch', '721'],
+       ['Zachary Matthews', '724'],
+       ['Joseph Brandi', '723'],
+       ['Jerry Walker', '722']], dtype='<U21')
+array([['Mary Trausch', '725'],
+       ['Zachary Matthews', '726'],
+       ['Joseph Brandi', '727'],
+       ['Jerry Walker', '728']], dtype='<U21')
+32
+array([['Mary Trausch', '729'],
+       ['Zachary Matthews', '730'],
+       ['Joseph Brandi', '731'],
+       ['Jerry Walker', '732']], dtype='<U21')
+array([['Mary Trausch', '736'],
+       ['Zachary Matthews', '733'],
+       ['Joseph Brandi', '734'],
+       ['Jerry Walker', '735']], dtype='<U21')
+18
+array([['Mary Trausch', '738'],
+       ['Zachary Matthews', '739'],
+       ['Joseph Brandi', '737'],
+       ['Jerry Walker', '740']], dtype='<U21')
+array([['Mary Trausch', '744'],
+       ['Zachary Matthews', '742'],
+       ['Joseph Brandi', '743'],
+       ['Jerry Walker', '741']], dtype='<U21')
+72
+array([['Mary Trausch', '746'],
+       ['Zachary Matthews', '747'],
+       ['Joseph Brandi', '745'],
+       ['Jerry Walker', '748']], dtype='<U21')
+array([['Mary Trausch', '750'],
+       ['Zachary Matthews', '752'],
+       ['Joseph Brandi', '749'],
+       ['Jerry Walker', '751']], dtype='<U21')
+16
+array([['Mary Trausch', '755'],
+       ['Zachary Matthews', '753'],
+       ['Joseph Brandi', '756'],
+       ['Jerry Walker', '754']], dtype='<U21')
+array([['Mary Trausch', '758'],
+       ['Zachary Matthews', '757'],
+       ['Joseph Brandi', '759'],
+       ['Jerry Walker', '760']], dtype='<U21')
+55
+array([['Mary Trausch', '763'],
+       ['Zachary Matthews', '762'],
+       ['Joseph Brandi', '761'],
+       ['Jerry Walker', '764']], dtype='<U21')
+array([['Mary Trausch', '767'],
+       ['Zachary Matthews', '766'],
+       ['Joseph Brandi', '765'],
+       ['Jerry Walker', '768']], dtype='<U21')
+69
+array([['Mary Trausch', '772'],
+       ['Zachary Matthews', '771'],
+       ['Joseph Brandi', '769'],
+       ['Jerry Walker', '770']], dtype='<U21')
+array([['Mary Trausch', '774'],
+       ['Zachary Matthews', '776'],
+       ['Joseph Brandi', '773'],
+       ['Jerry Walker', '775']], dtype='<U21')
+24
+array([['Mary Trausch', '777'],
+       ['Zachary Matthews', '778'],
+       ['Joseph Brandi', '780'],
+       ['Jerry Walker', '779']], dtype='<U21')
+array([['Mary Trausch', '783'],
+       ['Zachary Matthews', '781'],
+       ['Joseph Brandi', '784'],
+       ['Jerry Walker', '782']], dtype='<U21')
+15
+array([['Mary Trausch', '788'],
+       ['Zachary Matthews', '785'],
+       ['Joseph Brandi', '787'],
+       ['Jerry Walker', '786']], dtype='<U21')
+array([['Mary Trausch', '789'],
+       ['Zachary Matthews', '792'],
+       ['Joseph Brandi', '790'],
+       ['Jerry Walker', '791']], dtype='<U21')
+66
+array([['Mary Trausch', '793'],
+       ['Zachary Matthews', '796'],
+       ['Joseph Brandi', '794'],
+       ['Jerry Walker', '795']], dtype='<U21')
+array([['Mary Trausch', '798'],
+       ['Zachary Matthews', '797'],
+       ['Joseph Brandi', '800'],
+       ['Jerry Walker', '799']], dtype='<U21')
+61
+array([['Mary Trausch', '801'],
+       ['Zachary Matthews', '804'],
+       ['Joseph Brandi', '803'],
+       ['Jerry Walker', '802']], dtype='<U21')
+array([['Mary Trausch', '805'],
+       ['Zachary Matthews', '807'],
+       ['Joseph Brandi', '806'],
+       ['Jerry Walker', '808']], dtype='<U21')
